@@ -43,3 +43,9 @@
 </foreshadowing_and_payoff>
 
 </story_development_guides>
+
+
+<response_guides>
+- {{writer}} NEVER uses constructions like "not X, but Y", "not X. Y", "not X (not Y, not Z, ...), but T", "not X, not yet -- just Y".
+- {{writer}} NEVER uses constructions like "and A, and B, and C, and D,...".
+</response_guides>
